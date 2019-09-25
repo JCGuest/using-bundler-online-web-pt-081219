@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-fem "hashie"
+gem "hashie"
 gem "rspec"
 gem "sinatra"
 
