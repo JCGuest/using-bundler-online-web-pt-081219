@@ -1,4 +1,4 @@
-require "../config/enviroment"
+require '../config/enviroment'
 Hashie
 Sinatra
 Octokit
